@@ -8,7 +8,7 @@
 - 🔭 &nbsp; I’m currently **looking for a job**
 - 🌱 &nbsp; I’m currently learning `Typescript`
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
-  - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
+- 💬 &nbsp; Ask me about anything tech related, I am happy to talk
 - 📝 &nbsp; Checkout my [resume](https://yernar-kz.web.app/resume)
 
 <br>
