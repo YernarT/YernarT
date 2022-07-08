@@ -1,14 +1,14 @@
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" /> 
   <span>Hello, I'm YernarT</span>
   <img align="right" src="https://komarev.com/ghpvc/?username=YernarT" alt="Github page views" />
 </h1>
 
 - 🚩 &nbsp; I’m a front-end developer
-- 🔭 &nbsp; I’m currently working on **Astanahub**
+- 🔭 &nbsp; I’m currently **looking for a job**
 - 🌱 &nbsp; I’m currently learning `Typescript`
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help
+  - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
 - 📝 &nbsp; Checkout my [resume](https://yernar-kz.web.app/resume)
 
 <br>
@@ -30,7 +30,6 @@
 ---
 
 # Sponsor me
-<p>编程很简单, 但需要有一定天赋的人才能理解这种简单</p>
 <p>优秀的判断力来自经验, 但经验来自于错误的判断</p>
 <p>请我喝个咖啡吧~</p>
 <a href="https://www.buymeacoffee.com/YernarT" target="_blank" rel="noreferrer nofollow">
