@@ -5,8 +5,8 @@
 </h1>
 
 - 🚩 &nbsp; I’m a front-end developer
-- 🔭 &nbsp; I’m currently **looking for a job**
-- 🌱 &nbsp; I’m currently learning `Typescript`
+- 🔭 &nbsp; I’m currently working on **DevArt.kz**
+- 🌱 &nbsp; I’m currently using `Typescript`
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
 - 📝 &nbsp; Checkout my [resume](https://yernar-kz.web.app/resume)
@@ -30,8 +30,8 @@
 ---
 
 # Sponsor me
-<p>优秀的判断力来自经验, 但经验来自于错误的判断</p>
-<p>请我喝个咖啡吧~</p>
+<p>Good judgment comes from experience, but experience comes from bad judgment</p>
+<p>Buy me a coffee~</p>
 <a href="https://www.buymeacoffee.com/YernarT" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
