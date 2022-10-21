@@ -5,8 +5,8 @@
 </h1>
 
 - 🚩 &nbsp; I’m a front-end developer
-- 🔭 &nbsp; I’m currently working on **DevArt.kz**
-- 🌱 &nbsp; I’m currently using `Typescript`
+- 🔭 &nbsp; I’m currently working on **Astanahub**
+- 🌱 &nbsp; I’m currently using `React + Django`
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
 - 📝 &nbsp; Checkout my [resume](https://yernar-kz.web.app/resume)
