@@ -5,9 +5,9 @@
 </h1>
 
 - 🚩 &nbsp; I’m a front-end developer
-- 🔭 &nbsp; I’m currently working on **Astanahub**
-- 🌱 &nbsp; I’m currently using `React + Django`
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
+- 💻 &nbsp; I’m currently working on **Rocketfirm**
+- 🌱 &nbsp; I’m currently learning `TypeScript`
+- 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
 - 📝 &nbsp; Checkout my [resume](https://yernar-kz.web.app/resume)
 
