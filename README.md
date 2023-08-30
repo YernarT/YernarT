@@ -21,7 +21,7 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="./assets/js.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="./assets/ts.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="./react.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="./assets/react.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="./assets/node.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./assets/python.svg"></a>
 <a href="https://flutter.dev/" target="__blank"><img align="left" alt="Flutter" height ="42px" src="./assets/flutter.svg" /></a>
