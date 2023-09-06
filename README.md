@@ -30,7 +30,7 @@
 <br>
 <br>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yernar&layout=pie)](https://yernar-kz.web.app/)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yernar&layout=compact&langs_count=5)](https://yernar-kz.web.app/)
 
 ---
 
