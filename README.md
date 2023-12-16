@@ -4,16 +4,14 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=YernarT" alt="Github page views" />
 </h1>
 
-- 🚩 &nbsp; I’m a front-end developer
-- 💻 &nbsp; I’m currently working on **IServ**
-- 🌱 &nbsp; I’m currently learning `WebGL`
+- 🚩 &nbsp; I’m a software engineer
+- 💻 &nbsp; I’m currently working on **IT IS IT**
+- 🌱 &nbsp; I’m currently learning `Blender`
 - 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
 - 📝 &nbsp; Checkout my [resume](https://yernar-kz.web.app/resume)
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YernarT&count_private=true&show_icons=true&theme=gotham" />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=YernarT&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15&theme=algolia)
 
@@ -27,10 +25,6 @@
 <a href="https://flutter.dev/" target="__blank"><img align="left" alt="Flutter" height ="42px" src="./assets/flutter.svg" /></a>
 
 <br>
-<br>
-<br>
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yernar&layout=compact&langs_count=5)](https://yernar-kz.web.app/)
 
 ---
 
