@@ -9,7 +9,7 @@
 - 🌱 &nbsp; I’m currently learning `Blender`
 - 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
-- 📝 &nbsp; Checkout my [resume](https://yernar-kz.web.app/resume)
+- 📝 &nbsp; Checkout my [resume](https://yernar-kz.web.app/?lang=enUS)
 
 <br>
 
