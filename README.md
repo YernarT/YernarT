@@ -5,7 +5,7 @@
 </h1>
 
 - 🚩 &nbsp; I’m a software engineer
-- 💻 &nbsp; I’m currently working on **IT IS IT**
+- 💻 &nbsp; I’m currently working in **Astana city**
 - 🌱 &nbsp; I’m currently learning `Blender`
 - 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/YernarT?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
